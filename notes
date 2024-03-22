@@ -1,0 +1,3 @@
+can send up to eight concurrent requests before hitting any limitations set by the API.
+
+May have a expiry in the future, didn't mention this int the documentation.
